@@ -1,5 +1,15 @@
 <h1>Hi 👋, I'm Krish</h1>
-<p>A passionate Full Stack developer</p>
+<h2>💡 About Me</h2>
+<p>
+  Hi, I'm <b>Krish</b> 👋 — a passionate <b>Full Stack Developer</b> who loves building dynamic, scalable, and user-friendly web applications.  
+</p>
+<ul>
+  <li>💻 Skilled in <b>MERN stack</b>, with strong foundations in <b>Data Structures & Algorithms</b></li>
+  <li>⚡ I enjoy solving real-world problems through technology and open-source contributions</li>
+  <li>📚 Always learning & staying updated with the latest tech trends</li>
+  <li>🎯 Goal: To become a highly skilled <b>Software Architect</b> and contribute to impactful projects</li>
+  <li>📫 Reach me at: <a href="mailto:mungasekrishna8@gmail.com">mungasekrishna8@gmail.com</a></li>
+</ul>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
