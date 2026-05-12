@@ -33,7 +33,7 @@
   <a target="_blank" href="https://www.instagram.com/krishna_mungase_" style="display: inline-block;">
     <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
   </a>
-  <a target="_blank" href="https://krish-mungase.vercel.app/" style="display: inline-block;">
+  <a target="_blank" href="https://krish-lyart.vercel.app/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/portfolio-website?style=for-the-badge&logo=google-chrome&logoColor=white&color=blue" alt="portfolio" />
   </a>
 </p>
